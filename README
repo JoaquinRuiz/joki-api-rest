@@ -1,0 +1,34 @@
+                    ._,=.;===- ..su.                   
+                    - `      .= -)4m;_                 
+                   . _<=a,.. .  .. i)Yw,               
+                   .wQQWQQQmawwwgQmQQa;!               
+                   :QW#QQWWWWWmQWWWQWQ6s/              
+                 . -4WQQQQQQQWQQQQQWQWQjm              
+                   ammWB8BWWWWBWWBWWWWWQ?              
+                . -QW#Y=-:=!Y#m#!=-+3$QW<.             
+                vp]WWos=.=i_aWWk_i_vwmdQQL             
+                jzd$QWWmgmQW5yQQQQQmWWQQo@             
+                ~_QXmWWWWAm#VWEWmz3WWWWWQ(             
+                 "<]mZYXadmL,:+nyQpmWjWf               
+                   ~4Wmm6ss|laaX?YnWWQW`               
+                    <4VBmWWBW##WQQQQWB'                
+                    .c-*V$WWQQWWQWQQQ-.                
+                 _.`,]g>=|)YYS$##QWWQ/ _,              
+              _.''.]Qm3Qm%===udQWQQD]m ]Qw__,          
+     . , ;-`       mQQmWWmmw>W#mW#P:Qm,-$Q@(+=;___;=;;;
+. - -             _QQWQWmBm###mmmS<mQQf.+=++==++|+|=<i=
+                  ]QQWQP"$Wmmm##XJ9QQQ[.|= -   .---=+!+
+                  mQQQF`_u"^d$VX*+ )QWL--              
+                  QQ9LwmQQc<QQwmawwc3W-                
+                  QWwQQWWQ6jQWWQQWWQtW,   
+                               
+            Joaquín Ruiz, 2013 - jokiruiz.com
+
+
+URLS: 
+host/joki-api-rest/rest/services?f=json
+host/joki-api-rest/rest/services/service1?f=json
+host/joki-api-rest/rest/services/service2?f=json
+host/joki-api-rest/rest/services/service1/text?name=text.txt&f=json
+host/joki-api-rest/rest/services/service1/db?query="select * from table;"&f=json
+host/joki-api-rest/rest/services/service2/image?name=tiger.jpg&type=jpg
